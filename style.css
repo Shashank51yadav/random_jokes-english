@@ -1,0 +1,22 @@
+body{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    
+}
+p{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color:lightgreen;
+    border-radius: 6px;
+    border: 1px solid rgb(230, 173, 219);
+    padding: 10px;
+    
+}
+.dark-mode{
+color:aliceblue;
+background-color: black;
+}
